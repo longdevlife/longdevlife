@@ -1,5 +1,5 @@
 WELCOME TO MY PAGE 👋👋👋
-My name is Long Anh, and I'm currently a student at FPT University. I specialize in Web Design and Web Development, with a strong interest in building modern, user-friendly websites.
+My name is Long Anh, and I'm currently a student at FPT University. I specialize in Web Design and Web Development,Mobile Development with a strong interest in building modern, user-friendly websites.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tira.hoang) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hoàng-long-anh-2b42a0368) 
 
