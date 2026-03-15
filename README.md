@@ -1,14 +1,63 @@
-### Hi, I'm Long Anh 👋
 
-I'm a Full-stack & Mobile developer specializing in modern web and cross-platform mobile applications.
+# 👋 Hey there! I'm Long Anh
 
-I’m passionate about building elegant, fast, and scalable apps — from intuitive web interfaces to production-ready mobile platforms.
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=32&duration=3000&pause=1000&color=0EA5E9&center=false&vCenter=true&width=700&lines=Frontend+Developer;Code+Hard,+Sleep+Rarely;Let+me+cookkk+!!" alt="Typing Animation" />
+</div>
 
-🛠️ **Tech I enjoy working with**
-- **Programming Language:** TypeScript, JavaScript
-- **Backend Framework:** NestJS (Node.js)
-- **Frontend Framework:** React, Next.js
-- **Mobile Framework:** React Native, Flutter
-- **Database Engine:** MongoDB, MySQL
+<p align="left">
+  <a target="_blank" href="https://vudovn.dev"><img src="https://img.shields.io/badge/Website-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a target="_blank" href="https://www.tiktok.com/@vudovn"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a target="_blank" href="https://soundcloud.com/vudovn"><img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
+  <a target="_blank" href="https://www.instagram.com/vudovn.354"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a target="_blank" href="https://facebook.com/vudovn.354"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
 
-For more information, please connect with me on [LinkedIn](https://linkedin.com/in/hoàng-long-anh-2b42a0368) or [Facebook](https://facebook.com/tira.hoang).
+---
+
+## ✨ About Me
+
+☕ Turning coffee into **clean, maintainable, and scalable frontend systems**.  
+💻 Passionate about **building full-stack web apps** that blend performance with delightful UX.
+
+- 🌱 Currently exploring **Laravel, Nestjs, REST APIs**
+- 💬 Ask me about  **Frontend Development & Next.js**
+- 📫 Reach me at: **[hoangtira@gmail.com](mailto:hoangtira@gmail.com)**
+
+> “Code is like humor — when you have to explain it, it’s bad.” 😎
+
+---
+
+## ✨ Tech Stack
+
+<div align="start">
+
+### - Backend
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,mysql,mongodb" />
+
+### - Frontend
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap" />
+
+### - Tools & Others
+<img src="https://skillicons.dev/icons?i=postman,github,vscode,figma,discord,docker,openai" />
+
+</div>
+
+---
+
+## ✨ GitHub Contribution
+
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vudovn/vudovn/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vudovn/vudovn/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vudovn/vudovn/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+---
+
+## ✨ Fun Facts
+- 🎧 Coding with lo-fi beats or SoundCloud remixes
+- 🧩 Loves problem-solving and system design
+- 🚀 Always open to learning and collaboration
