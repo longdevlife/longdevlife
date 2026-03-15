@@ -29,7 +29,7 @@
 <div align="start">
 
 ### - Backend
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,mysql,mongodb" />
 
 ### - Frontend
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap" />
