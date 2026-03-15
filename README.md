@@ -34,6 +34,9 @@
 ### - Frontend
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap" />
 
+### - Mobile
+<img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio" />
+
 ### - Tools & Others
 <img src="https://skillicons.dev/icons?i=postman,github,vscode,figma,discord,docker,openai" />
 
