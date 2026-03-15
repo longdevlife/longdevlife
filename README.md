@@ -1,5 +1,5 @@
 
-# 👋 Hey there! I'm Long Anh
+# Hey there! I'm Long Anh
 
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=32&duration=3000&pause=1000&color=0EA5E9&center=false&vCenter=true&width=700&lines=Frontend+Developer;Code+Hard,+Sleep+Rarely;Let+me+cookkk+!!" alt="Typing Animation" />
@@ -11,7 +11,7 @@
 
 ---
 
-## ✨ About Me
+## About Me
 
 ☕ Turning coffee into **clean, maintainable, and scalable frontend systems**.  
 💻 Passionate about **building full-stack web apps** that blend performance with delightful UX.
@@ -24,7 +24,7 @@
 
 ---
 
-## ✨ Tech Stack
+## Tech Stack
 
 <div align="start">
 
@@ -44,7 +44,7 @@
 
 ---
 
-## ✨ GitHub Contribution
+## GitHub Contribution
 
 <div align="center">
     <picture>
