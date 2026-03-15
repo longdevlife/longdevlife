@@ -20,7 +20,7 @@
 ☕ Turning coffee into **clean, maintainable, and scalable frontend systems**.  
 💻 Passionate about **building full-stack web apps** that blend performance with delightful UX.
 
-- 🌱 Currently exploring **Laravel, Nestjs, REST APIs**
+- 🌱 Currently exploring **Nestjs, REST APIs**
 - 💬 Ask me about  **Frontend Development & Next.js**
 - 📫 Reach me at: **[hoangtira@gmail.com](mailto:hoangtira@gmail.com)**
 
