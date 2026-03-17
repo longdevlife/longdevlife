@@ -28,11 +28,11 @@
 
 <div align="start">
 
-### - Backend
-<img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,mysql,mongodb,prisma" />
-
 ### - Frontend
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap" />
+
+### - Backend
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,mysql,mongodb,prisma" />
 
 ### - Mobile
 <img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio" />
